@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Brutuberr
 - 👀 I’m interested in coding and filmmaking
-- 🌱 I’m currently learning Blender, Python and a bit of C#
-- 💞️ I’m looking to collaborate on Blender Pro
-- 📫 How to reach me Discord Brutuber#1935
+- 🌱 I’m currently learning Python, C# and JavaScript
+- 💞️ I’m not looking to collab with anyone
+- 📫 How to reach me (pls don't reach me)
 
 <!---
 Brutuberr/Brutuberr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
