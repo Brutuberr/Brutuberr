@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @Brutuberr
-- 👀 I’m interested in coding and filmmaking
-- 🌱 I’m currently learning Python, C#, JavaScript and Arduino
+Hello whoever sees this!
+
+My name is Bruce. I am currently a student at ITBA (Instituto Teconologico Buenos Aires) studying software engineering.
+
+I have learned to use Python, C, C#, Javascript, and some other languages.
+
 
 <!---
 Brutuberr/Brutuberr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
